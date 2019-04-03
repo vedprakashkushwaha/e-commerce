@@ -1,0 +1,101 @@
+*{
+   margin:0px;
+   padding:0px;	
+}
+#head_div
+ {
+ 	background-color: black;
+ 	
+ 	height:70px;
+ 	color: white;
+ 	padding: 5px;
+ 	font-family: comic sans ms;
+  }
+ #footer
+  {
+  	height: 50px;
+  	background-color: black;
+  	color: white;
+  	margin-top: 222px;
+  	text-align: center;
+  	line-height: 40px;
+
+  }
+  table
+  {
+  	margin-top: 170px;
+  	background-color: lightgray;
+  }
+  td
+  {
+  	border: 1px white solid;
+  	padding: 3px;
+  }
+  #ftr
+   {
+   	background-color:teal;
+   	color: white;
+   	font: 20px bold tahoma;
+   }
+#sub
+ {
+ 	background-color: lightgreen;
+ 	padding: 4px;
+ 	width: 90px;
+ 	font-weight: bold;
+
+ }
+
+ .menu_bar
+{
+	
+	height:50px;
+	margin: auto;
+	background-color:teal; 
+}
+#menu
+ {
+ 	list-style:none;
+    line-height:40px;
+    margin-left:20px;  
+ }
+ #menu li
+ {
+ 	display:block;  
+ 	float:left;
+ 	width:150px;
+ 	text-align: center;
+ 	/*padding-right:15px;  */
+ } 
+ #menu a
+  {
+  	text-decoration: none;
+  	color:white;
+  	font-family:COMIC SANS MS; 
+  }
+ #menu a:hover
+ {
+ 	text-decoration:underline;
+ 	color:orange; 
+ 	font-weight:bold; 
+ } 
+ #footer1
+  {
+  	height: 50px;
+  	background-color: black;
+  	color: white;
+  	margin-top: 475px;
+  	text-align: center;
+  	line-height: 40px;
+
+  }  
+  #footer3
+  {
+  	height: 50px;
+  	background-color: black;
+  	color: white;
+  	margin-top: 23px;
+  	text-align: center;
+  	line-height: 40px;
+
+  }  

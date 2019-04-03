@@ -1,0 +1,65 @@
+*{ font-family:comic sans ms,Bradley Hand ITC;
+   font-weight:bolder;
+}
+body
+ {
+   background-color:pin;
+  }
+#form_div
+{
+  margin-top: -122px;
+}
+table
+ {
+ 
+ 	border: 2px solid gray;
+ 	outline:10px solid teal;
+ 	background-color:white;
+ 	
+
+ }
+ td
+{
+ 
+ width:650px;
+ padding:5px;
+}
+h2
+{
+  padding:0px;
+  margin:0px;
+  text-align:center;
+  color: white;
+  font-family:Brush Script MT;
+  letter-spacing:0.1em;
+  font-size:34px; 
+}
+input
+{
+  float:right;
+  margin-right:10px;
+  height:30px;
+  width:400px;
+}
+select
+{
+  float:right;
+  margin-right:10px;
+  height:30px;
+  width:400px;
+}
+span
+ {
+   margin-left:10px;
+ }
+input[type='submit']
+{
+  width:100px;
+  margin-right:310px;
+ 
+  
+}
+input[type='file']
+{
+  width:400px;
+}
